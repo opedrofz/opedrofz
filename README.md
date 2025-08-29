@@ -19,7 +19,8 @@
 ---
 
 ## 📈 Estatísticas do GitHub
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=opedrofz&show_icons=true&theme=radical)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=opedrofz&show_icons=true&theme=radical) 
+
 
 ---
 
