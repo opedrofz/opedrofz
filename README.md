@@ -4,6 +4,8 @@
 
 🌌 "A simplicidade é o último grau da sofisticação." – Leonardo da Vinci
 
+🚀 Em constante evolução!
+
 ---
 
 ## 🛠 Tecnologias e Ferramentas
